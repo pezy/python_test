@@ -3,6 +3,8 @@ python_test
 
 learn python by example
 
+Reference: http://learnpythonthehardway.org/book/
+
 -----
 
 ## Resource
